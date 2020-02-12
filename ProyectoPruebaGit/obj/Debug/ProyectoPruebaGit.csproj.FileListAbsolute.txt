@@ -1,0 +1,9 @@
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\bin\Debug\ProyectoPruebaGit.exe.config
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\bin\Debug\ProyectoPruebaGit.exe
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\bin\Debug\ProyectoPruebaGit.pdb
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\obj\Debug\ProyectoPruebaGit.csprojAssemblyReference.cache
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\obj\Debug\ProyectoPruebaGit.Form1.resources
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\obj\Debug\ProyectoPruebaGit.Properties.Resources.resources
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\obj\Debug\ProyectoPruebaGit.csproj.GenerateResource.cache
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\obj\Debug\ProyectoPruebaGit.exe
+C:\Users\sergimartor\Desktop\ProyectoGitPrueba\ProyectoPruebaGit\obj\Debug\ProyectoPruebaGit.pdb
